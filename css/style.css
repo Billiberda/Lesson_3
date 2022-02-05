@@ -1,0 +1,40 @@
+h1 {
+	color: brown;
+}
+.blue {
+	color: blue;
+}
+h2 {
+	color: chocolate;
+}
+p.text {
+	color: darkgreen;
+}
+#block{
+	color: darkorchid;
+}
+.next-text ~ p {
+	color: lightslategray;
+}
+.about_text,
+.normal_text {
+	color: brown;
+}
+[class*="_blue"] {
+	color: blue;
+}
+.name.paragraph{
+	color: violet;
+}
+.name {
+	color: gray;
+}
+.paragraph {
+	color: tomato;
+}
+* {
+	color: olive;
+}
+.footer {
+	color: orange;
+}
